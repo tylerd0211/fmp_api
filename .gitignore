@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+
+# Ignore environment files
+.env
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore data files
+*.csv
+
+# Ignore Docker-related files
+postgres_data/
+
